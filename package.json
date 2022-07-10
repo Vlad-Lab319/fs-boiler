@@ -1,0 +1,15 @@
+{
+  "name": "wr-files",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "fs_write.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.0.1"
+  }
+}
